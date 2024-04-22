@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+This is Edu, a student of information technology at Universidad de Guayaquil.
+I have some experience coding in python.
+I'd like to learn C#(I've already know some basic stuff)
 <!--
 **EduCasanasCu/EduCasanasCu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
