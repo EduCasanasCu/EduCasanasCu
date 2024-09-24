@@ -1,9 +1,9 @@
 ### Hi there 👋
 - This is Edu, a student of information technology at Universidad de Guayaquil.
 
-- I have some experience coding in python.
+- 🌱 I’m currently learning Java ☕️
 
-- I'd like to learn C#(I've already know some basic stuff)
+- 🎥 I have a youtube channel [Eduar Cas](https://www.youtube.com/@edukaz)
 
 <!--
 **EduCasanasCu/EduCasanasCu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
